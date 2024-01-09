@@ -1,52 +1,24 @@
-# Python Template
 
-Template repository for Python project
+## [ 1. 공부 방법 ]
 
-## 🚀 Features
+ 1) 파이썬 머신러닝 완벽가이드 (권철민 저) 책으로 매주 일요일 9시 한 챕터씩 요약 발표 진행 (김용석)
+ 2) 이번주 분류에 관련하여 공부를 했다면 차주 일요일 전까지 디스코드에 본인이 공부한 캐글 코드 소개 및 업데이트 내용 공유
 
-### Code Quality
 
-- black
-- isort
-- flake8
-- editorconfig
+## [ 2. 스터디 학습 기본서 ]
 
-### Github Actions
+1월-2월의 기본서는 파이썬 머신러닝 완벽가이드 (권철민 저) _ 난이도 초중급
 
-- [release-drafter](https://github.com/release-drafter/release-drafter)
-- Check code quality when PR (`black`, `isort`, `flake8`)
+https://www.yes24.com/Product/Goods/108824557
 
-### Other
 
-- Commit template
-- Issue, PR Template
-- Add dummy test code
-- Auto-close stale issue
 
-## 📄 Guideline
+## [ 3. 스터디 자료/공지/공유자료는 디스코드에서 공유] 
 
-### 1. Setup
+https://discord.com/channels/1178110605094309899/1178110605597610096
 
-- precommit, style, pytest, gitmessage, requirements
+석경님이 만들어주신 디스코드 방 URL 참조
 
-```bash
-make setup
-```
 
-### 2. Writes your own code! ✏️
 
-Don't forget to update the `README`!
-
-## ⬆️ Contributing
-
-### 1. Test
-
-```bash
-make test
-```
-
-### 2. Execute code formatting & Check lint
-
-```bash
-make style
-```
+본격적으로 스타트는 1월 14일 일요일 오전 9시에 시작합니다. 
